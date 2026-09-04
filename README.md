@@ -42,36 +42,36 @@ Switchport Access Config F1-SW:  <br/>
 <img src="https://www.image2url.com/r2/default/images/1788505234571-e8015674-d758-4f00-b413-792fe24ee290.png" alt="Switchport Access Config Steps" />
 <br />
 <br />
-Switchport Access Config F1-SW: <br/>
+Switchport Access Config (F1-SW): <br/>
 <img src="https://www.image2url.com/r2/default/images/1788505508552-c4bab3c9-9dc0-405b-bf2d-af95d6de676a.png" alt="Switchport Access Config Steps Con't" />
 <br />
 <br />
-VLAN & Switchport Configuration F2-SW:  <br/>
+VLAN & Switchport Configuration (F2-SW):  <br/>
 <img src="https://www.image2url.com/r2/default/images/1788506182948-7cda4963-8e2b-42c8-b2b5-c69a612a4847.png" alt="VLAN & Switchport Configuration" />
 <br />
 <br />
-VLAN & Switchport Configuration F3-SW:   <br/>
+VLAN & Switchport Configuration (F3-SW):   <br/>
 <img src="https://www.image2url.com/r2/default/images/1788506585817-a02da533-cae0-4880-85a7-d21f04324416.png" alt="VLAN & Switchport Configuration" />
 <br />
 <br />
-VLAN & Switchport Configuration F3-SW (continued):  <br/>
+VLAN & Switchport Configuration (F3-SW) Con't:  <br/>
 <img src="https://www.image2url.com/r2/default/images/1788506708233-b6918cd6-4466-4ad0-9c83-41b14c5355dc.png" alt="VLAN & Switchport Configuration Con't" />
 <br />
 <br />
-Switchport Mode Trunk Configuration F1-SW:  <br/>
+Switchport Mode Trunk Configuration (F1-SW):  <br/>
 <img src="https://www.image2url.com/r2/default/images/1788507461589-8b76ceab-a7dc-4f07-89d9-6ee97c1e547b.png" alt="Switchport Mode Trunk Config" />
 <br />
 <br />
-Switchport Mode Trunk Configuration F2-SW:  <br/>
+Switchport Mode Trunk Configuration (F2-SW):  <br/>
 <img src="https://www.image2url.com/r2/default/images/1788507684843-f84e48d9-9ed9-4e49-a214-f7a9b5dd9230.png" alt="Switchport Mode Trunk Config" />
 <br />
 <br />
-Switchport Mode Trunk Configuration F3-SW:  <br/>
+Switchport Mode Trunk Configuration (F3-SW):  <br/>
 <img src="https://www.image2url.com/r2/default/images/1788507863661-20c318c1-6c35-4ddf-92be-64da2d79f962.png" alt="Switchport Mode Trunk Config" />
 <br />
 <br />
-SSH Configuration (continued):  <br/>
-<img src="https://www.image2url.com/r2/default/images/1788348028844-86682d2d-b682-4d34-be58-ea4e721a4a1d.png" alt="SSH Configuration" />
+Router Serial Interface Configuration (F1-Router):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1788508568708-29d0b6af-e0ff-47a8-b966-5f64035be014.png" alt="Router Config" />
 <br />
 <br />
 SSH Configuration (continued):  <br/>
