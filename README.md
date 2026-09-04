@@ -42,6 +42,7 @@ Project consists of a configuring a hotel network topology that incorporates the
 - <b>Router Rip (router ri)</b>
 - <b>Version 2 (version 2)</b>
 - <b>Do Show IP Route (do sh ip rout)</b>
+- <b>Do Show IP Route RIP (do sh ip rout ri)</b>
 
 <h2>Environments Used </h2>
 
