@@ -115,13 +115,26 @@ Router Subinterface Configuration (F1-Router):  <br/>
 <img src="https://www.image2url.com/r2/default/images/1788523754262-718ce0f2-efe0-4841-91ee-4562291f4fb4.png" alt="Router Subinterface Config" />
 <br />
 <br />
-Router Interface Configuration (F3-Router):  <br/>
-<img src="https://www.image2url.com/r2/default/images/1788509232524-a345dac9-2453-4443-ba22-4c538fcb89eb.png" alt="Router Config" />
+Router DHCP Configuration (F2-Router):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1788524144294-73aac06c-0b05-4b2d-95d8-328e188f1028.png" alt="Router DHCP Config" />
+<img src="https://www.image2url.com/r2/default/images/1788524337765-38c7d819-8d16-4f0a-b03c-38da20dfadcd.png" alt="Router DHCP Config" />
 <br />
 <br />
-Router Clock Rate Configuration (F1-Router):  <br/>
-<img src="https://www.image2url.com/r2/default/images/1788509938431-226ba843-6248-49ae-9e05-f62244900e2e.png" alt="Clock Rate Config" />
-  SOP: Configure a Hotel Network with VLANs, DHCP, Wireless Access, Switchport Access, IP Addressing
+Router Subinterface Configuration (F2-Router):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1788524546175-9586d171-01a0-4d38-88e7-7159369a8a41.png" alt="Router Subinterface Config" />
+<br />
+<br />
+Router DHCP Configuration (F3-Router):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1788525025166-1ffc48f1-2841-420a-b31a-178da640674d.png" alt="Router DHCP Config" />
+<img src="https://www.image2url.com/r2/default/images/1788525111618-195fb975-0f50-4feb-b0d0-a0463438b9f4.png" alt="Router DHCP Config" />
+<br />
+<br />
+Router Subinterface Configuration (F3-Router):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1788525628465-031994f1-b11b-4831-80ce-88081154524c.png" alt="Router Subinterface Config" />
+<img src="https://www.image2url.com/r2/default/images/1788525706952-7429f76b-444f-4270-af92-0716ab2e240b.png" alt="Router Subinterface Config" />
+
+
+  SOP: Configure a Hotel Network with VLANs, DHCP, Wireless Access, Switchport Access, IP Addressing, Subinterfaces, Encapsulation DOT, Default-Gateways, Trunk Interfaces, & Clock Rates
 
 ### Objective
 
