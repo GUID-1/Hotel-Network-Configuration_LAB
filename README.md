@@ -70,19 +70,20 @@ Switchport Mode Trunk Configuration (F3-SW):  <br/>
 <img src="https://www.image2url.com/r2/default/images/1788507863661-20c318c1-6c35-4ddf-92be-64da2d79f962.png" alt="Switchport Mode Trunk Config" />
 <br />
 <br />
-Router Serial Interface Configuration (F1-Router):  <br/>
+Router Interface Configuration (F1-Router):  <br/>
 <img src="https://www.image2url.com/r2/default/images/1788508568708-29d0b6af-e0ff-47a8-b966-5f64035be014.png" alt="Router Config" />
+- Use the "no shut" command on each interface 
 <br />
 <br />
-SSH Configuration (continued):  <br/>
-<img src="https://www.image2url.com/r2/default/images/1788349472605-c13fbd5b-2431-4417-87d9-9da06f715b92.png" alt="SSH Configuration" />
+Router Interface Configuration (F2-Router):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1788509425307-f57b6192-b2f6-45fb-9da9-9929ff1c3293.png" alt="Router Config" />
 <br />
 <br />
-SSH Configuration (continued):  <br/>
-<img src="https://www.image2url.com/r2/default/images/1788350016099-1ce015ef-356d-4a32-b3e0-c64d41dcae23.png" alt="SSH Configuration" />
+Router Interface Configuration (F3-Router):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1788509232524-a345dac9-2453-4443-ba22-4c538fcb89eb.png" alt="Router Config" />
 <br />
 <br />
-  SOP: Configure a Router-on-a-Stick Network with VLANs, DHCP, Wireless Access, and SSH
+  SOP: Configure a Hotel Network with VLANs, DHCP, Wireless Access, Switchport Access
 
 ### Objective
 
