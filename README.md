@@ -25,7 +25,7 @@ Project consists of a configuring a hotel network topology that incorporates the
 - <b>Switchport Access vlan (sw acc vlan)b>
 - <b>Do Write (do wr)</b>
 - <b>Do Show Run (do sh run)</b>
-- <b>Cisco CLI</b>
+- <b>Switchport Mode Trunk (sw mod trunk)</b>
 
 <h2>Environments Used </h2>
 
@@ -56,19 +56,18 @@ VLAN & Switchport Configuration F3-SW:   <br/>
 <br />
 VLAN & Switchport Configuration F3-SW (continued):  <br/>
 <img src="https://www.image2url.com/r2/default/images/1788506708233-b6918cd6-4466-4ad0-9c83-41b14c5355dc.png" alt="VLAN & Switchport Configuration Con't" />
- 
 <br />
 <br />
-Router DHCP Configuration:  <br/>
-<img src="https://www.image2url.com/r2/default/images/1788346272982-4b5f063a-fedd-4979-943a-7cf38bb07b56.png" alt="DHCP Configuration" />
+Switchport Mode Trunk Configuration F1-SW:  <br/>
+<img src="https://www.image2url.com/r2/default/images/1788507461589-8b76ceab-a7dc-4f07-89d9-6ee97c1e547b.png" alt="Switchport Mode Trunk Config" />
 <br />
 <br />
-Router DHCP Configuration (continued):  <br/>
-<img src="https://www.image2url.com/r2/default/images/1788346830053-c6b86169-a53c-4d7f-83fb-4310281591a2.png" alt="DHCP Configuration" />
+Switchport Mode Trunk Configuration F2-SW:  <br/>
+<img src="https://www.image2url.com/r2/default/images/1788507684843-f84e48d9-9ed9-4e49-a214-f7a9b5dd9230.png" alt="Switchport Mode Trunk Config" />
 <br />
 <br />
-SSH Configuration:  <br/>
-<img src="https://www.image2url.com/r2/default/images/1788347531109-e5c47e6f-b3a1-4bdb-b511-8fbfe9fa8403.png" alt="SSH Configuration" />
+Switchport Mode Trunk Configuration F3-SW:  <br/>
+<img src="https://www.image2url.com/r2/default/images/1788507863661-20c318c1-6c35-4ddf-92be-64da2d79f962.png" alt="Switchport Mode Trunk Config" />
 <br />
 <br />
 SSH Configuration (continued):  <br/>
