@@ -35,7 +35,7 @@ Project consists of a configuring a hotel network topology that incorporates the
 
 <p align="center">
 VLAN configuration: <br/>
-<img src="<img src="https://www.image2url.com/r2/default/images/1788504285250-b880c2f2-991e-4298-bdbe-046e53688638.png" alt="Vlan Configuration Steps" />
+<img src="https://www.image2url.com/r2/default/images/1788504285250-b880c2f2-991e-4298-bdbe-046e53688638.png" alt="VLAN Configuration Steps" />
 <br />
 <br />
 Switchport Access Config:  <br/>
