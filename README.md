@@ -16,9 +16,9 @@ Project consists of a configuring a hotel network topology that incorporates the
 
 <h2>Cisco CLI Commands Used</h2>
 
-- <b>Cisco CLI</b>
-- <b>Cisco CLI</b>
-- <b>Cisco CLI</b>
+- <b>Enable (en)</b>
+- <b>Configure Terminal (conf t)</b>
+- <b>Do Show Vlan</b>
 - <b>Cisco CLI</b>
 - <b>Cisco CLI</b>
 - <b>Cisco CLI</b>
@@ -35,7 +35,7 @@ Project consists of a configuring a hotel network topology that incorporates the
 
 <p align="center">
 VLAN configuration: <br/>
-<img src="https://www.image2url.com/r2/default/images/1788313780814-1e888172-9a0d-4f15-9af0-40129356d8f4.png" alt="Vlan Config Steps" />
+<img src="<img src="https://www.image2url.com/r2/default/images/1788504285250-b880c2f2-991e-4298-bdbe-046e53688638.png" alt="Vlan Configuration Steps" />
 <br />
 <br />
 Switchport Access Config:  <br/>
