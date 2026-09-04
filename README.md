@@ -35,6 +35,13 @@ Project consists of a configuring a hotel network topology that incorporates the
 - <b>DNS-Server (dns)</b>
 - <b>Domain-Name (domai)</b>
 - <b>Encapsulation Dot1q (encap dot)</b>
+- <b>CDP Run (cdp run)</b>
+- <b>Do Show CDP Neighbor (do sh cdp neighb)</b>
+- <b>Do Show CDP Neighbor Detail (do sh cdp neighbor det)</b>
+- <b>Do Show IP Interface Brief (do sh ip int bri)</b>
+- <b>Router Rip (router ri)</b>
+- <b>Version 2 (version 2)</b>
+- <b>Do Show IP Route (do sh ip rout)</b>
 
 <h2>Environments Used </h2>
 
@@ -132,7 +139,32 @@ Router DHCP Configuration (F3-Router):  <br/>
 Router Subinterface Configuration (F3-Router):  <br/>
 <img src="https://www.image2url.com/r2/default/images/1788525628465-031994f1-b11b-4831-80ce-88081154524c.png" alt="Router Subinterface Config" />
 <img src="https://www.image2url.com/r2/default/images/1788525706952-7429f76b-444f-4270-af92-0716ab2e240b.png" alt="Router Subinterface Config" />
-
+<br />
+<br />
+Router IP Addressing (F1-Router):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1788526188221-31a4771c-c9a3-4f01-947b-41e9c3effe9e.png" alt="Router IP Addressing" />
+<br />
+<br />
+Router IP Addressing (F2-Router):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1788526734766-34a51a29-4810-4662-a310-31ddefffc64e.png" alt="Router IP Addressing" />
+<br />
+<br />
+Router IP Addressing (F3-Router):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1788526470395-2fd86980-b19b-42b1-8b4d-79c2b0f7dace.png" alt="Router IP Addressing" />
+<br />
+<br />
+Router Routing Protocol Configuration (F1-Router):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1788527378785-352bd330-8bc4-4052-9131-d88668c10152.png" alt="Routing Protocol Config" />
+<br />
+<br />
+Router Routing Protocol Configuration (F2-Router):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1788527741375-0c9df51c-730e-40ac-a20f-5b53fa1842aa.png" alt="Routing Protocol Config" />
+<br />
+<br />
+Router Routing Protocol Configuration (F3-Router):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1788527596136-89fb6d10-c509-45fd-a70e-fdccd3be303e.png" alt="Routing Protocol Config" />
+<br />
+<br />
 
   SOP: Configure a Hotel Network with VLANs, DHCP, Wireless Access, Switchport Access, IP Addressing, Subinterfaces, Encapsulation DOT, Default-Gateways, Trunk Interfaces, & Clock Rates
 
