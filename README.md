@@ -50,13 +50,13 @@ VLAN & Switchport Configuration F2-SW:  <br/>
 <img src="https://www.image2url.com/r2/default/images/1788506182948-7cda4963-8e2b-42c8-b2b5-c69a612a4847.png" alt="VLAN & Switchport Configuration" />
 <br />
 <br />
-Router Subinterface Configuration (continued):  <br/>
-<img src="https://www.image2url.com/r2/default/images/1788319519484-442844d6-1e86-4119-a98e-c958deccb4e2.png" alt="Router Configuration Steps" />
+VLAN & Switchport Configuration F3-SW:   <br/>
+<img src="https://www.image2url.com/r2/default/images/1788506585817-a02da533-cae0-4880-85a7-d21f04324416.png" alt="VLAN & Switchport Configuration" />
 <br />
 <br />
-Router Subinterface Configuration (continued):  <br/>
-<img src="https://www.image2url.com/r2/default/images/1788339247988-1230d506-da28-4967-bbf0-9eb8329735bc.png" alt="Router Configuration Steps" />
- Add a /26 subnet mask for the ip addr 192.168.1.129
+VLAN & Switchport Configuration F3-SW (continued):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1788506708233-b6918cd6-4466-4ad0-9c83-41b14c5355dc.png" alt="VLAN & Switchport Configuration Con't" />
+ 
 <br />
 <br />
 Router DHCP Configuration:  <br/>
