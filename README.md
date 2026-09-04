@@ -26,6 +26,14 @@ Project consists of a configuring a hotel network topology that incorporates the
 - <b>Do Write (do wr)</b>
 - <b>Do Show Run (do sh run)</b>
 - <b>Switchport Mode Trunk (sw mod trunk)</b>
+- <b>Do Show Controllers Serial (do sh controll se)</b>
+- <b>Clock Rate(clock ra)</b>
+- <b>Service DHCP (service dhc)</b>
+- <b>IP DHCP Pool (ip dhcp pool)</b>
+- <b>Network (netwo)</b>
+- <b>Default-Router (defaul)</b>
+- <b>DNS-Server (dns)</b>
+- <b>Domain-Name (domai)</b>
 
 <h2>Environments Used </h2>
 
@@ -83,7 +91,22 @@ Router Interface Configuration (F3-Router):  <br/>
 <img src="https://www.image2url.com/r2/default/images/1788509232524-a345dac9-2453-4443-ba22-4c538fcb89eb.png" alt="Router Config" />
 <br />
 <br />
-  SOP: Configure a Hotel Network with VLANs, DHCP, Wireless Access, Switchport Access
+Router Clock Rate Configuration (F1-Router):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1788509938431-226ba843-6248-49ae-9e05-f62244900e2e.png" alt="Clock Rate Config" />
+- Set the clock rate to 64000 for each DCE interface  
+<br />
+<br />
+Router Clock Rate Configuration (F2-Router):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1788510169621-f8dacb1a-d7b9-4ec7-926a-af3b0b15d688.png" alt="Clock Rate Config" />
+<br />
+<br />
+Router DHCP Configuration (F1-Router):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1788510448507-9315a0ed-e977-4549-8f15-327e9a816977.png" alt="DHCP Config" />
+<img src="https://www.image2url.com/r2/default/images/1788510638622-341b58a7-b259-4203-b095-e224c25f6c3a.png" alt="DHCP Config" />
+<img src="https://www.image2url.com/r2/default/images/1788510781563-34f082b1-452b-4dbf-8428-931d0e020c1b.png" alt="DHCP Config" />
+<br />
+<br />
+  SOP: Configure a Hotel Network with VLANs, DHCP, Wireless Access, Switchport Access, IP Addressing
 
 ### Objective
 
