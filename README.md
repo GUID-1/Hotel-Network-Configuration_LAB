@@ -19,12 +19,12 @@ Project consists of a configuring a hotel network topology that incorporates the
 - <b>Enable (en)</b>
 - <b>Configure Terminal (conf t)</b>
 - <b>Do Show Vlan (do sh vlan)</b>
-- <b>Cisco CLI</b>
-- <b>Cisco CLI</b>
-- <b>Cisco CLI</b>
-- <b>Cisco CLI</b>
-- <b>Cisco CLI</b>
-- <b>Cisco CLI</b>
+- <b>Do Show Interfaces Status (do sh interfaces status)</b>
+- <b>Interface Range (int range)</b>
+- <b>Switchport Mode Access (sw mod acc)</b>
+- <b>Switchport Access vlan (sw acc vlan)b>
+- <b>Do Write (do wr)</b>
+- <b>Do Show Run (do sh run)</b>
 - <b>Cisco CLI</b>
 
 <h2>Environments Used </h2>
@@ -34,20 +34,20 @@ Project consists of a configuring a hotel network topology that incorporates the
 <h2>Configuration walk-through:</h2>
 
 <p align="center">
-VLAN configuration: <br/>
+VLAN configuration F1-SW: <br/>
 <img src="https://www.image2url.com/r2/default/images/1788504285250-b880c2f2-991e-4298-bdbe-046e53688638.png" alt="VLAN Configuration Steps" />
 <br />
 <br />
-Switchport Access Config:  <br/>
-<img src="https://www.image2url.com/r2/default/images/1788317218312-b8258876-8c00-477d-9569-9f451638eb29.png" alt="Switchport Access Config Steps" />
+Switchport Access Config F1-SW:  <br/>
+<img src="https://www.image2url.com/r2/default/images/1788505234571-e8015674-d758-4f00-b413-792fe24ee290.png" alt="Switchport Access Config Steps" />
 <br />
 <br />
-Switchport Access Config: <br/>
-<img src="https://www.image2url.com/r2/default/images/1788317969341-d070d81b-7573-40fe-a084-e0eccf09af29.png" alt="Switchport Access Config Steps Con't" />
+Switchport Access Config F1-SW: <br/>
+<img src="https://www.image2url.com/r2/default/images/1788505508552-c4bab3c9-9dc0-405b-bf2d-af95d6de676a.png" alt="Switchport Access Config Steps Con't" />
 <br />
 <br />
-Router Subinterface Configuration:  <br/>
-<img src="https://www.image2url.com/r2/default/images/1788319329643-999dffca-61ae-4899-b9e2-c374250e49a1.png" alt="Router Configuration Steps" />
+VLAN & Switchport Configuration F2-SW:  <br/>
+<img src="https://www.image2url.com/r2/default/images/1788506182948-7cda4963-8e2b-42c8-b2b5-c69a612a4847.png" alt="VLAN & Switchport Configuration" />
 <br />
 <br />
 Router Subinterface Configuration (continued):  <br/>
