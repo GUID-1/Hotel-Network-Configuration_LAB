@@ -6,7 +6,7 @@ Configure a Hotel Network topology using elements of networking such as: DHCP, R
  ### [YouTube Demonstration](https://youtu.be/2eN5QdSPeBk)
 
 <h2>Description</h2>
-Project consists of a configuring a hotel network topology that incorporates the configuration of DHCP, SSH, Routing protocols, End devices, VLANS, 802.1Q encapsulation, APs, & static IP addressing & switchports 
+Project consists of a configuring a hotel network topology that incorporates the configuration of DHCP, SSH, Routing protocols, End devices, VLANS, Subinterfaces, 802.1Q encapsulation, APs, Static IP addressing & switchports 
 <br />
 
 
@@ -34,6 +34,7 @@ Project consists of a configuring a hotel network topology that incorporates the
 - <b>Default-Router (defaul)</b>
 - <b>DNS-Server (dns)</b>
 - <b>Domain-Name (domai)</b>
+- <b>Encapsulation Dot1q (encap dot)</b>
 
 <h2>Environments Used </h2>
 
@@ -106,6 +107,20 @@ Router DHCP Configuration (F1-Router):  <br/>
 <img src="https://www.image2url.com/r2/default/images/1788510781563-34f082b1-452b-4dbf-8428-931d0e020c1b.png" alt="DHCP Config" />
 <br />
 <br />
+Router Subinterface Configuration (F1-Router):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1788522797598-e20a9c94-0508-4b2a-91c9-c9a7b4dc62f4.png" alt="Router Subinterface Config" />
+<img src="https://www.image2url.com/r2/default/images/1788523016959-472e6307-fcda-473f-b3c7-08bd3f4e82d4.png" alt="Router Subinterface Config" />
+<img src="https://www.image2url.com/r2/default/images/1788523467528-9c28b4a8-0fae-4a1c-8cb0-eebfb7ba1a23.png" alt="Router Subinterface Config" />
+<img src="https://www.image2url.com/r2/default/images/1788523596875-0bafd94a-3013-4b9f-9b64-eea522fd0dd6.png" alt="Router Subinterface Config" />
+<img src="https://www.image2url.com/r2/default/images/1788523754262-718ce0f2-efe0-4841-91ee-4562291f4fb4.png" alt="Router Subinterface Config" />
+<br />
+<br />
+Router Interface Configuration (F3-Router):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1788509232524-a345dac9-2453-4443-ba22-4c538fcb89eb.png" alt="Router Config" />
+<br />
+<br />
+Router Clock Rate Configuration (F1-Router):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1788509938431-226ba843-6248-49ae-9e05-f62244900e2e.png" alt="Clock Rate Config" />
   SOP: Configure a Hotel Network with VLANs, DHCP, Wireless Access, Switchport Access, IP Addressing
 
 ### Objective
