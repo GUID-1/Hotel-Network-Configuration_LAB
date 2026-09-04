@@ -18,7 +18,7 @@ Project consists of a configuring a hotel network topology that incorporates the
 
 - <b>Enable (en)</b>
 - <b>Configure Terminal (conf t)</b>
-- <b>Do Show Vlan</b>
+- <b>Do Show Vlan (do sh vlan)</b>
 - <b>Cisco CLI</b>
 - <b>Cisco CLI</b>
 - <b>Cisco CLI</b>
